@@ -25,11 +25,7 @@ title: Prague Trip
 tagline: Prominent Czech Composers
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "This is a collection curated by Hugo Kaut in preparation for the University of Iowa’s Conifer and Seamark String Quartet’s trip to Prague in August of 2026. It seeks to highlight the lives of the prominent Czech composers:
-
-Antonín Dvořák
-Bedřich Smetana
-Bohuslav Martinů"
+description: "This is a collection curated by Hugo Kaut in preparation for the University of Iowa’s Conifer and Seamark String Quartet’s trip to Prague in August of 2026. It seeks to highlight the lives of the prominent Czech composers: Antonín Dvořák, Bedřich Smetana, and Bohuslav Martinů"
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
 author: hwkaut
 
